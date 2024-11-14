@@ -5,8 +5,8 @@
 
 ## Status
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kamichanszf&theme=shadow_green&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamichanszf&layout=compact&theme=shadow_green&show_items=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kamichansz&theme=shadow_green&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamichansz&layout=compact&theme=shadow_green&show_items=true"/>
 </div>
 
 ## Tecnologias
