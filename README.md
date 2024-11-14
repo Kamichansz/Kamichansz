@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ola! Eu sou Kamilla Layanne👋😊
 
-<!--
-**Kamichansz/Kamichansz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Hoje eu estou a procura de trabalho na área de desenvolvimento Front-End ^^
+- 🌱 Estudando: Javascript, HTML, CSS, Angular e Node.js
 
-Here are some ideas to get you started:
+## Status
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kamichanszf&theme=shadow_green&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamichanszf&layout=compact&theme=shadow_green&show_items=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+<div style="display: inline-block;">
+  <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
