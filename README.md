@@ -16,5 +16,5 @@
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />      
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />     
   <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
-  <img style="height: 3em; width: 3em;" src="https://w1.pngwing.com/pngs/787/398/png-transparent-react-logo-javascript-python-clojure-programming-language-redux-computer-software-php-thumbnail.png" />  
+  <img style="height: 3em; width: 3em;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
 </div>
