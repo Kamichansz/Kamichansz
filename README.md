@@ -1,7 +1,7 @@
 ## Ola! Eu sou Kamilla Layanne👋😊
 
 - 💻 Hoje eu estou a procura de trabalho na área de desenvolvimento Front-End ^^
-- 🌱 Estudando: Javascript, HTML, CSS, Angular e Node.js
+- 🌱 Estudando: Javascript, HTML, CSS, Angular, Node.js e Python.
 
 ## Status
 <div>
